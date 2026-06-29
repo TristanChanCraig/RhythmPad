@@ -12,4 +12,4 @@ RhythmPad is a 2x8 macro pad that includes 7 key switches, a rotary encoder swit
 
 ***
 ## Schematic
-!(Assets/schematic.png)
+![](Assets/schematic.png)
